@@ -1,0 +1,56 @@
+﻿@page
+@model ProjectRazor.Pages.NotFoundModel
+@{
+    ViewData["Title"] = "Sayfa Bulunamadı!";
+}
+
+<div class="not-found-container">
+    <h1>404 - Kaybolduk!</h1>
+    <p>@Model.FunnyMessage</p>
+    <img src="/images/lost-astronaut.png" alt="Kaybolmuş bir astronot" style="max-width: 300px;" />
+    <div>
+        <a href="/" class="btn btn-primary">Ana Sayfaya Dön</a>
+        <button onclick="playSound()" class="btn btn-secondary">Beni Güldür!</button>
+    </div>
+</div>
+
+<style>
+    .not-found-container {
+        text-align: center;
+        padding: 50px;
+        font-family: 'Comic Sans MS', cursive; /* Eğlenceli bir font */
+    }
+
+    h1 {
+        color: #ff4444;
+        font-size: 60px;
+    }
+
+    p {
+        font-size: 20px;
+        color: #666;
+    }
+
+    .btn {
+        margin: 10px;
+        padding: 10px 20px;
+        text-decoration: none;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .btn-secondary {
+        background-color: #ff9900;
+        color: white;
+    }
+</style>
+
+<script>
+    function playSound() {
+        var audio = new Audio('/sounds/funny-laugh.mp3');
+        audio.play();
+    }
+</script>

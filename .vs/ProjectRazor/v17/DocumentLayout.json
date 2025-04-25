@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M\\Desktop\\ProjectRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\repository\\mssqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:repository\\mssqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\notfound.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\notfound.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\repository\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:repository\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|c:\\users\\m\\desktop\\projectrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0DD503-254C-4444-A705-12B5A08E4FA1}|ProjectRazor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:57:50.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFound.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\NotFound.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\NotFound.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\NotFound.cshtml.cs",
+              "RelativeToolTip": "Pages\\NotFound.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:10:22.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:54:06.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T20:48:56.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Pages\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\NotFound.cshtml",
+              "RelativeToolTip": "Pages\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T20:02:16.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T19:52:00.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:19:05.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:00:02.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:05:39.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MockData.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Repository\\MockData.cs",
+              "RelativeDocumentMoniker": "Repository\\MockData.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Repository\\MockData.cs",
+              "RelativeToolTip": "Repository\\MockData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:49:45.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:41:51.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:39:23.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:09:08.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSSQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Repository\\MSSQLRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MSSQLRepository.cs",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Repository\\MSSQLRepository.cs",
+              "RelativeToolTip": "Repository\\MSSQLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:24:08.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M\\Desktop\\ProjectRazor\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T10:06:22.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
