@@ -26,7 +26,7 @@ Bu proje, bir şirketin çalışanlarını yönetmek için geliştirilmiş basit
 - `wwwroot/`: CSS, JavaScript ve resim dosyalarımız
 
 ## Geliştirme Sürecim
-Bu projeyi geliştirirken önce veritabanı tasarımını yaptım. Sonra Entity Framework ile modellerimi oluşturdum. Ardından repository pattern kullanarak veritabanı işlemlerini yazdım. Son olarak Razor Pages kullanarak kullanıcı arayüzünü tasarladım.
+Bu projeyi geliştirirken önce veritabanı tasarımını yaptım. Sonra Entity Framework ile modellerimi oluşturdum. Ardından repository pattern kullanarak veritabanı işlemlerini yazdım. Son olarak Razor Pages kullanarak kullanıcı arayüzünü tasarladım. Bu projeyi ASP Razor Pages yapsını öğrenmek için geliştirdim.
 
 
 
