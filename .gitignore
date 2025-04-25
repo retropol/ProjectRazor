@@ -1,0 +1,57 @@
+## Build Results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## IIS Express
+.vs/
+*.vspscc
+*.vssscc
+*.dbmdl
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## DotNET CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Logs
+*.log
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+.nuget/
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## User secrets (if using them)
+**/secrets.json
+
+## Entity Framework
+Migrations/
+
+## Other
+.env
+*.DS_Store
+Thumbs.db
